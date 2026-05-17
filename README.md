@@ -5,7 +5,6 @@ A simple web-based Morse Code Converter that translates text into Morse code and
 ## Features ✨
 
 - Text to Morse code conversion
-- Morse code to text conversion
 - Simple and responsive interface
 - Beginner-friendly project
 
