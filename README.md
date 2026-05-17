@@ -1,4 +1,4 @@
-# Morse Code Converter 🔤
+# Morse Code Converter 📄
 
 A simple web-based Morse Code Converter that translates text into Morse code and converts Morse code back into readable text.
 
