@@ -1,2 +1,21 @@
-# Morse Code Converter
-Making a Morse Code Converter using Python
+# Morse Code Converter 🔤
+
+A simple web-based Morse Code Converter that translates text into Morse code and converts Morse code back into readable text.
+
+## Features ✨
+
+- Text to Morse code conversion
+- Morse code to text conversion
+- Simple and responsive interface
+- Beginner-friendly project
+
+## Technologies Used 🛠️
+
+-PYTHON
+
+## Getting Started 🚀
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Parth2753/Morse-Code-Converter.git
