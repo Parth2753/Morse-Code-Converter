@@ -11,7 +11,7 @@ A simple web-based Morse Code Converter that translates text into Morse code and
 
 ## Technologies Used 🛠️
 
--PYTHON
+- Python 🐍
 
 ## Getting Started 🚀
 
